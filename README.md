@@ -1,44 +1,30 @@
-# praktikum15
+# Praktikum 15 - Layouting dan Integrasi API
 
-This template should help get you started developing with Vue 3 in Vite.
+## Deskripsi
+Project Vue 3 yang menerapkan:
 
-## Recommended IDE Setup
+- Vue Router
+- Tailwind CSS
+- Axios
+- Layout Component
+- Integrasi API DummyJSON
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Fitur
 
-## Recommended Browser Setup
+- Home
+- Dashboard
+- Daftar User
+- Detail User
+- About
+- Contact
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## API
 
-## Customize configuration
+https://dummyjson.com/users
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Teknologi
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Vue 3
+- Vite
+- Tailwind CSS
+- Axios
